@@ -101,7 +101,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any inquiries or feedback, please contact:
 
-- **Your Name**: [fahadzafarmayo123@gmail.com]
-- **GitHub**: [https://github.com/Fahadboi](https://github.com/your-username)
+- **Your Name**: [haris54955@gmail.com]
+- **GitHub**: [https://github.com/M-Haris-27](https://github.com/your-username)
 
 ---
